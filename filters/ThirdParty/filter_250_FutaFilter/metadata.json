@@ -1,0 +1,22 @@
+{
+  "filterId": 250,
+  "name": "FutaFilter List",
+  "description": "An advertisement blocking list specialized for Taiwanese users.",
+  "timeAdded": 1616091726943,
+  "homepage": "https://github.com/FutaGuard/FutaFilter/blob/master/README.en.md",
+  "expires": "4 days",
+  "displayNumber": 2,
+  "groupId": 7,
+  "subscriptionUrl": "https://filter.futa.gg/filter.txt",
+  "tags": [
+    "purpose:ads",
+    "reference:101",
+    "lang:zh"
+  ],
+  "trustLevel": "high",
+  "platformsIncluded": [
+    "windows",
+    "mac",
+    "android"
+  ]
+}
