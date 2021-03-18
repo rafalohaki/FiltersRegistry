@@ -13,10 +13,5 @@
     "reference:101",
     "lang:zh"
   ],
-  "trustLevel": "high",
-  "platformsIncluded": [
-    "windows",
-    "mac",
-    "android"
-  ]
+  "trustLevel": "high"
 }
