@@ -11,5 +11,10 @@
   "tags": [
     "purpose:privacy"
   ],
-  "trustLevel": "low"
+  "trustLevel": "low",
+  "platformsIncluded": [
+    "windows",
+    "mac",
+    "android"
+  ]
 }
