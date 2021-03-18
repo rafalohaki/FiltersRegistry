@@ -1,0 +1,2 @@
+!
+@include "https://filter.futa.gg/removeparam.txt" /exclude="../../exclusions.txt"

@@ -1,0 +1,15 @@
+{
+  "filterId": 250,
+  "name": "FutaFilter URL Privacy Guardner List",
+  "description": "Now the tracker is proliferating and can be seen everywhere. This list designed to against URL tracks, protect users privacy.",
+  "timeAdded": 1616091726943,
+  "homepage": "https://github.com/FutaGuard/FutaFilter/blob/master/README.en.md",
+  "expires": "4 days",
+  "displayNumber": 2,
+  "groupId": 2,
+  "subscriptionUrl": "https://filter.futa.gg/removeparam.txt",
+  "tags": [
+    "purpose:privacy"
+  ],
+  "trustLevel": "low"
+}
