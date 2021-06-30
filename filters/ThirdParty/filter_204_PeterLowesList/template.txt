@@ -1,5 +1,8 @@
 !
 @include "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext" /exclude="../../exclusions.txt"
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/86375
+!+ PLATFORM(ext_safari, ios)
+@@||cision.com^$domain=cision.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26571
 @@||adstage.io^$~third-party
