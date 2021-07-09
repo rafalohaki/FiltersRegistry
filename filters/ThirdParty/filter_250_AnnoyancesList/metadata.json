@@ -1,0 +1,15 @@
+{
+  "filterId": 250,
+  "name": "Dandelion Sprout's Annoyances List",
+  "description": "This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.",
+  "timeAdded": 1625827085315,
+  "homepage": "https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#-english",
+  "expires": "4 days",
+  "displayNumber": 2,
+  "groupId": 4,
+  "subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList",
+  "tags": [
+    "purpose:annoyances"
+  ],
+  "trustLevel": "low"
+}
