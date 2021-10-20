@@ -6,7 +6,7 @@ This repository contains the known filters subscriptions available to AdGuard us
 We may add third-party filters to AdGuard Filters Registry. When making a decision about adding a third-party filter, we follow these rules:
 
 1. The filter should be oriented towards browser content blockers.
-2. The filter should be legal. If it has rules for [paywall circumvention](https://forum.adguard.com/index.php?threads/policy-on-adblock-walls.26022/), we won't add such a filter.
+2. The filter should be legal. If it has rules for paywall circumvention, we won't add such a filter.
 3. The filter should have a place for receiving user complaints and holding discussions, such as a repository on github.com, or a website open to public.
 4. The filter should be relatively popular, meaning: 
     * if there is a repository on GitHub, the number of stars should be at least 50
